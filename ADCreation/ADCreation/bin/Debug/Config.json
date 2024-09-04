@@ -1,0 +1,7 @@
+{
+  "ldapPath": "LDAP://CN=Users,DC=smartnetsoftware,DC=com",
+  "credentials": {
+    "username": "testadmin",
+    "password": "admin@123"
+  }
+}

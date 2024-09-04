@@ -1,0 +1,15 @@
+C:\Users\amruta\source\repos\ADCreation\ADCreation\bin\Debug\ADCreation.exe.config
+C:\Users\amruta\source\repos\ADCreation\ADCreation\bin\Debug\ADCreation.exe
+C:\Users\amruta\source\repos\ADCreation\ADCreation\bin\Debug\ADCreation.pdb
+C:\Users\amruta\source\repos\ADCreation\ADCreation\obj\Debug\ADCreation.csproj.AssemblyReference.cache
+C:\Users\amruta\source\repos\ADCreation\ADCreation\obj\Debug\ADCreation.Form1.resources
+C:\Users\amruta\source\repos\ADCreation\ADCreation\obj\Debug\ADCreation.Properties.Resources.resources
+C:\Users\amruta\source\repos\ADCreation\ADCreation\obj\Debug\ADCreation.csproj.GenerateResource.cache
+C:\Users\amruta\source\repos\ADCreation\ADCreation\obj\Debug\ADCreation.csproj.CoreCompileInputs.cache
+C:\Users\amruta\source\repos\ADCreation\ADCreation\obj\Debug\ADCreation.exe
+C:\Users\amruta\source\repos\ADCreation\ADCreation\obj\Debug\ADCreation.pdb
+C:\Users\amruta\source\repos\ADCreation\ADCreation\obj\Debug\ADCreation.CreateUser.resources
+C:\Users\amruta\source\repos\ADCreation\ADCreation\obj\Debug\ADCreation.Update.resources
+C:\Users\amruta\source\repos\ADCreation\ADCreation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amruta\source\repos\ADCreation\ADCreation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amruta\source\repos\ADCreation\ADCreation\obj\Debug\ADCreation.csproj.Up2Date
